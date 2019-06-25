@@ -4,7 +4,7 @@
    "local_address":"127.0.0.1",
    "local_port":1080,
    "port_password":{
-       "9000":"xxxxxx",
+       "9000":"seetheworld",
        "9001":{"password":"seetheworld", "protocol":"auth_chain_a", "obfs":"tls1.2_ticket_auth", "obfs_param":""},
        "9002":{"password":"seetheworld", "protocol":"auth_chain_a", "obfs":"tls1.2_ticket_auth", "obfs_param":""}
        // ...
